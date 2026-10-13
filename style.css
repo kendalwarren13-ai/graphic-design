@@ -2,8 +2,9 @@
     width: 570px;
     margin: 0 auto;
 }
-.image {
-    size: 10px; 
+img {
+  max-width: 100%;
+  height: auto;
 }
 h1,
 h2 {
